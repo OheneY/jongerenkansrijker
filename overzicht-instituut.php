@@ -26,6 +26,5 @@
 
     ?>
         <a href="nieuw-instituut.php">Nieuwe instituut toevoegen</a>
-
     </body>
 </html>
